@@ -1,7 +1,3 @@
-Sure, here is a refined README file for your Happy Birthday app:
-
----
-
 # Happy Birthday App
 
 ## Overview
@@ -23,9 +19,10 @@ Welcome to the Happy Birthday App! This simple Android application is designed t
 ## Installation
 
 1. Clone this repository to your local machine using:
-   ```
+   ```sh
   https://github.com/Sidharth-1996/Happy_Birthday.git
    ```
+```
 2. Open the project in Android Studio.
 3. Build and run the project on an Android device or emulator.
 
